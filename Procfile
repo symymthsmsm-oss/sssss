@@ -1,0 +1,1 @@
+worker: python botby10.py
